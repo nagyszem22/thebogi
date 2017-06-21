@@ -1,9 +1,21 @@
 body { background: url('handmadepaper.png') }
-div
+div, a, a:hover, a:active
 {
 	font-family: 'Merriweather', serif;
 	opacity: 0.97;
 	color: #222;
+}
+input
+{
+	width: 100%;
+	padding: 7px;
+	border-radius: 5px;
+	border: 2px solid #222;
+}
+a, a:hover, a:active
+{
+	display: block;
+	text-decoration: none;
 }
 .title
 {
