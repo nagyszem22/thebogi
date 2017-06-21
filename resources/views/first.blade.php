@@ -17,7 +17,7 @@
                 <div class="section-title">Intro</div>
                 <div class="paragraph">Bocsi én egy picit előbb értem ide, szóval előrementem kicsikét. Hogy ne unatkozz amíg utolérsz, csináltam egy weboldalt és útközben elhelyeztem pár virágot, hogy el ne tévedj.</div>
                 <div class="paragraph">Egyébként nem tudom, hogy mire gondolsz, vagy mit akarsz mondani. Azt viszont tudom, hogy nem szeretném, hogy ez a következő 10 percben megváltozzon, ezt majd megbeszéljük személyesen.</div>
-                <div class="paragraph">Ezenkívül tudom azt is, hogy ha van olyan lány aki megérdemel végtelen mennyiségű virágot az te vagy. Bár ezzel valószínűleg elkéstem, 3 éve kellett volna. Ez azonban továbbra sem változtat a tényen, hogy a The Bogi című fejezet elkészült és ha nincs sok virágot lopkodó turista akkor működik is. (Ha közepesen gáznak érzed random virágok összeszedését az utcán, hagyd csak ott őket, a lényeg, h tudd, hogy miattad vannak ott.)</div>
+                <div class="paragraph">Ezenkívül tudom azt is, hogy ha van olyan lány aki megérdemel végtelen mennyiségű virágot az te vagy. Bár ezzel valószínűleg elkéstem, 3 éve kellett volna. Ez azonban továbbra sem változtat a tényen, hogy a The Bogi című fejezet elkészült és ha nincs sok virágot lopkodó turista akkor működik is. (Ha közepesen gáznak érzed random virágok összeszedését az utcán, hagyd csak ott őket, sajnos amúgy sem túl szépek, a lényeg, h tudd, hogy miattad vannak ott.)</div>
                 <div class="paragraph">No hajrá! Kövesd az útvonalat! Ha az oroszlán a jobb kezednél van kattints az alsó gombra!</div>
                 <div class="paragraph">Ui.: Mielőtt elindulnál csapj fel egy fülest úgy élvezhetőbb (talán).</div>
             </div>
