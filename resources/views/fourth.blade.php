@@ -11,14 +11,14 @@
         <link rel="stylesheet" href="{{ asset('main.css') }}" crossorigin="anonymous">
     </head>
     <body>
-        <audio autoplay>
-            <!-- source src="silhouettes.ogg" type="audio/ogg" -->
-            <source src="{{ asset('icancahnge.mp3') }}" type="audio/mpeg">
-            Your browser does not support the audio element.
-        </audio>
         <div class="container">
             <div class="content">
                 <div class="section-title">The Last Steps</div>
+                <audio controls>
+                    <!-- source src="silhouettes.ogg" type="audio/ogg" -->
+                    <source src="{{ asset('icancahnge.mp3') }}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
                 <div class="paragraph">Na most már csak tényleg pár lépés és utolérsz. Nem tudom, hogy észrevetted-e de túl léptem a korlátaimon és 4 lépésben navigáltalak át egy hídon és nem 3-ban. Ez nálam nagyon komoly előrelépés ám. Előre is bocsi a lépcsőzésért ami még rád vár, nem lesz nagyon hosszú.</div>
                 <div class="paragraph">B</div>
                 <div class="paragraph">...</div>

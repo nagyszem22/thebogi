@@ -11,14 +11,14 @@
         <link rel="stylesheet" href="{{ asset('main.css') }}" crossorigin="anonymous">
     </head>
     <body>
-        <audio autoplay>
-            <!-- source src="silhouettes.ogg" type="audio/ogg" -->
-            <source src="{{ asset('silhouettes.mp3') }}" type="audio/mpeg">
-            Your browser does not support the audio element.
-        </audio>
         <div class="container">
             <div class="content">
                 <div class="section-title">The Bridge</div>
+                <audio autoplay>
+                    <!-- source src="silhouettes.ogg" type="audio/ogg" -->
+                    <source src="{{ asset('silhouettes.mp3') }}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
                 <div class="paragraph">Hehe. Tök vicces, hogy idáig eljutottál. Jutalmul egy funfact, tudtad, hogy ezeknek az oroszlánoknak nincsen nyelve? Vszeg igen mert egyszer ugyan ezen a helyen megvitattuk már. Egyébként közel olyan hasznos infó mint a Hervis története.</div>
                 <div class="paragraph">Amúgy egész jól állsz, most már csak át kell kelned a hídon. A szabály ugyan az, nem muszáj virágokat gyűjtögetned. Nyugodtan otthagyhatod őket, legalább akkor a 9re megbeszélt csajszinak nem kell újakat kiraknom.</div>
                 <div class="paragraph">Haha. Marcika már megint nagyon vicces... 10re beszélte meg.</div>
