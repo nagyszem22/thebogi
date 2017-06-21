@@ -14,7 +14,8 @@
         <div class="container">
             <div class="content">
                 <div class="section-title">The Bridge</div>
-                <audio autoplay>
+                <div class="paragraph">Ha szeretnél muzsikát hallgatni akkor katt a play gombra.</div>
+                <audio controls>
                     <!-- source src="silhouettes.ogg" type="audio/ogg" -->
                     <source src="{{ asset('silhouettes.mp3') }}" type="audio/mpeg">
                     Your browser does not support the audio element.

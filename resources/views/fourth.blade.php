@@ -19,10 +19,9 @@
                     <source src="{{ asset('icancahnge.mp3') }}" type="audio/mpeg">
                     Your browser does not support the audio element.
                 </audio>
-                <div class="paragraph">Na most már csak tényleg pár lépés és utolérsz. Nem tudom, hogy észrevetted-e de túl léptem a korlátaimon és 4 lépésben navigáltalak át egy hídon és nem 3-ban. Ez nálam nagyon komoly előrelépés ám. Előre is bocsi a lépcsőzésért ami még rád vár, nem lesz nagyon hosszú.</div>
-                <div class="paragraph">B</div>
-                <div class="paragraph">...</div>
-
+                <div class="paragraph">Na most már csak tényleg pár lépés és utolérsz. Nem tudom, hogy észrevetted-e de túlléptem a korlátaimon és 4 lépésben navigáltalak át 3 helyett. Ez nálam nagyon komoly előrelépés ám. Előre is bocsi a lépcsőzésért ami még rád vár, nem lesz nagyon hosszú.</div>
+                <div class="paragraph">Am nagyon remélem nem csuknak le a szemetelésért, de ha igen akkor legalább lesz egy srác aki hajlandó érted börtönbe menni, szerintem ez minumum bakancslista.</div>
+                <div class="paragraph">Na jó hallgasd a muzsikát, ha tetszik és 3 perc múlva tala, akkor beszélünk. Légy jó és a zebrán menj át, mert errefelé óvatlanok a személygépjárművek!</div>
             </div>
         </div>
         <img src="{{ asset('fourth-step.png') }}">

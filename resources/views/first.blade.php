@@ -25,7 +25,7 @@
         <img src="{{ asset('first-step.png') }}">
         <div class="container">
             <div class="content">
-                <a href="{{ url('second') }}" class="next-button">Ne kattints ide !</a>
+                <a href="{{ url('second') }}" class="next-button">Ha az oroszlán a jobb kezednél van katt ide!</a>
             </div>
         </div>
     </body>
